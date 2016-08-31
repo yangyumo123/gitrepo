@@ -7,3 +7,4 @@ aaa
 bbb
 Creating a new branch again
 add new branch dev
+git stash
