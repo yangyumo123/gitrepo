@@ -1,2 +1,3 @@
-Git is tool
-Git is powerful
+Git is tool update
+Git is powerful update
+Git is free
